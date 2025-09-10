@@ -62,5 +62,5 @@ Sou apaixonada por **Ciência de Dados**, e estou sempre em busca de novos desaf
 
 ### 🌍 Vamos nos conectar!
 📫 **Email:** tatianaisidro21@outlook.com  
-💼 **LinkedIn:** [linkedin.com/in/tatianaclavér](#)  
+💼 **LinkedIn:** [https://linkedin.com/in/tatiana-cl%C3%A1ver-16338a265/](#)  
 📊 **GitHub:** [github.com/tatianaclaver](#)  
