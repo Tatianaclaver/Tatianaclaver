@@ -2,7 +2,7 @@
 
 **`Analista de Dados | Engenharia Informática`**
 
-Me chamo **Tatiana Isabel Clemente Cláver Isidro**, tenho 24 anos e sou natural de Angola.  
+Me chamo **Tatiana Cláver**, tenho 24 anos e sou natural de Angola.  
 Sou licenciada em **Engenharia Informática** pela Universidade Metodista de Angola.  
 
 Tenho experiência em **Excel Avançado, SQL e Power BI**, com foco em **análise, tratamento e visualização de dados**.  
