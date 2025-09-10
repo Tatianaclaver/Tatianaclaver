@@ -13,8 +13,7 @@ Sou apaixonada por **Ciência de Dados**, e estou sempre em busca de novos desaf
 ---
 
 ### 🛠️ Habilidades Técnicas
-
-- **Linguagens & Ferramentas**
+ **Linguagens & Ferramentas**
   <br/>
   <img align="left" alt="SQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -28,11 +27,8 @@ Sou apaixonada por **Ciência de Dados**, e estou sempre em busca de novos desaf
   
   <br/>
   <br/>
+  
 ### 📊 Estatísticas do GitHub
----
-
-
-
 <p>
   <img 
     align="left" 
@@ -50,7 +46,6 @@ Sou apaixonada por **Ciência de Dados**, e estou sempre em busca de novos desaf
 </p>
 
 <br clear="left"/>
----
 
 ### 🚀 O que estou estudando agora
 - **Machine Learning aplicado à Análise de Crédito**  
